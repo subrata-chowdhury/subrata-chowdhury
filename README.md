@@ -2,7 +2,6 @@
 I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT university. I am experienced in web development.
 
 **Some of known programming languages are:**
-
 HTML, CSS, JavaScript, PHP, Java, C, C++, Python
 
 I have design many small projects which can be found on my git profile.
