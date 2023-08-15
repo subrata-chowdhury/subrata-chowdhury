@@ -7,6 +7,7 @@ HTML, CSS, JavaScript, PHP, Java, C, C++, Python
 
 I have design many small projects which can be found on my git profile.
 Now I am currently working on [Time Table Designer](https://github.com/Super7000/Sem_Time_Table_Designer).
+![Alt text](https://isocpp.org/assets/images/cpp_logo.png)
 <!--
 **Super7000/Super7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
