@@ -6,7 +6,7 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 HTML, CSS, JavaScript, PHP, Java, C, C++, Python
 
 I have design many small projects which can be found on my git profile.
-Now I am currently working on [Time Table Designer](/Sem_TIme_Table_Designer).
+Now I am currently working on `[Time Table Designer](https://github.com/Super7000/Sem_Time_Table_Designer)`.
 <!--
 **Super7000/Super7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
