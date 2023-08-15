@@ -1,6 +1,8 @@
 ### Hi there 👋
+I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT university. I am experienced in web development.
+**Some of known programming languages are:**
 
-<!--
+
 **Super7000/Super7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
