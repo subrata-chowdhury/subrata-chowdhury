@@ -4,6 +4,8 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 ### **Some of known programming languages are:** <br>
 **HTML, CSS, JavaScript, PHP, Java, C, C++, Python**
 
+- 🌱 I’m currently learning Java
+
 I have design many small projects which can be found on my github profile [repositories](https://github.com/Super7000?tab=repositories).
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Super7000&" alt="Super7000" /></p>
