@@ -7,6 +7,8 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 
 ![icons8-html](https://github.com/Super7000/Super7000/assets/86580414/4aeb8968-c8d8-4c5a-8b58-153574dcbf62)<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="48px" height="48px"><path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"/><path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z"/><path fill="#FFF" d="M24,25v-4h8.6l-0.7,11.5L24,35.1v-4.2l4.1-1.4l0.3-4.5H24z M32.9,17l0.3-4H24v4H32.9z"/><path fill="#EEE" d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z"/></svg>
 
+</span>
+<span>
 
 ![icons8-css](https://github.com/Super7000/Super7000/assets/86580414/8fec55ad-2a51-4f7d-a3db-a75d606a83c2)<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="48px" height="48px"><path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"/><path fill="#039BE5" d="M24 8L24 39.9 35.2 36.7 37.7 8z"/><path fill="#FFF" d="M33.1 13L24 13 24 17 28.9 17 28.6 21 24 21 24 25 28.4 25 28.1 29.5 24 30.9 24 35.1 31.9 32.5 32.6 21 32.6 21z"/><path fill="#EEE" d="M24,13v4h-8.9l-0.3-4H24z M19.4,21l0.2,4H24v-4H19.4z M19.8,27h-4l0.3,5.5l7.9,2.6v-4.2l-4.1-1.4L19.8,27z"/></svg>
 
@@ -53,10 +55,10 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 </span>
 
 ### **Some of known tools are:** <br>
+
 <span>
 
 ![icons8-intellij-idea](https://github.com/Super7000/Super7000/assets/86580414/d30638b9-bdf2-48ec-8d4a-96dd54759a8f)<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="48px" height="48px"><path fill="#f57c00" d="M14.125 35.188L4.438 27.563 9.25 18.625 23.062 24z"/><path fill="#1e88e5" d="M44 14.688L43.25 37.813 27.875 44 18.625 38 32.125 24z"/><path fill="#2962ff" d="M44 14.688L31.812 29.063 26.25 11 31.563 4.625z"/><path fill="#ab47bc" d="M34.688 19.625L23.25 37.188 7.25 43 9.813 34 13.125 22.875z"/><path fill="#e91e63" d="M13.125 22.875L4 19.813 9.813 4 22.313 5.5 34.688 19.625z"/><path fill="#000001" d="M11 11H36V36H11z"/><path fill="#fff" d="M14 31.5H23V33H14zM20.5 15.875L20.5 14 15.5 14 15.5 15.875 17 15.875 17 22.375 15.5 22.375 15.5 24.25 20.5 24.25 20.5 22.375 19.159 22.375 19.159 15.875zM25.375 24.5c-1.875 0-2.871-1.098-3.25-1.548l1.411-1.605c.255.282.964 1.028 1.839 1.028 1.125 0 1.375-1.125 1.375-1.75V14H29v6.625c0 .624 0 1.625-.75 2.625C27.725 23.95 26.5 24.5 25.375 24.5z"/></svg>
-
 
 </span>
 
