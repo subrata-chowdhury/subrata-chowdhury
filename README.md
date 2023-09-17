@@ -5,6 +5,7 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 **HTML, CSS, JavaScript, PHP, Java, C, C++, Python**
 <!----------------------HTML-------------------------->
 <img src="./Icons/icons8-html.svg">
+![Alt text](./Icons/icons8-html.svg)
 
 <!----------------------CSS-------------------------->
 <img src="./Icons/icons8-css.svg">
