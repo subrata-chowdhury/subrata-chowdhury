@@ -1,4 +1,4 @@
-![icons8-java](https://github.com/Super7000/Super7000/assets/86580414/f377e5dd-7427-4244-8b50-843ca53de014)### Hi there 👋
+### Hi there 👋
 I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT university. I am experienced in web development.
 
 ### **Some of known programming languages are:** <br>
