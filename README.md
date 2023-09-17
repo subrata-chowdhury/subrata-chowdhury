@@ -7,8 +7,8 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 <img src="./Icons/icons8-html.svg">
 
 <!----------------------CSS-------------------------->
-<img src="./Icons/icons8-css.svg
-">
+<img src="./Icons/icons8-css.svg">
+
 <!----------------------JS-------------------------->
 
 - 🌱 I’m currently learning Java
