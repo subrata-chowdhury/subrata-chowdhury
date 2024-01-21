@@ -13,8 +13,8 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 ![CPP](https://github.com/Super7000/Super7000/assets/86580414/b557d7a4-decb-4609-a4b8-ccaf57ae2554)
 ![Python](https://github.com/Super7000/Super7000/assets/86580414/f819cba0-2d63-4733-88e3-02eeca45aa7c)
 ![mysql-original-wordmark](https://github.com/Super7000/Super7000/assets/86580414/40ee3f26-3a9b-49f4-ae5f-3502e00ba22d)
-![nodejs](https://github.com/Super7000/Super7000/assets/86580414/a12bb001-1877-4aa8-a9cd-417e3ef4475a)
-![react-2](https://github.com/Super7000/Super7000/assets/86580414/1224be3f-ea22-43ab-9a70-fcfc1ab87d99)
+&nbsp;![nodejs](https://github.com/Super7000/Super7000/assets/86580414/a12bb001-1877-4aa8-a9cd-417e3ef4475a)
+&nbsp;![react-2](https://github.com/Super7000/Super7000/assets/86580414/1224be3f-ea22-43ab-9a70-fcfc1ab87d99)
 
 ### **Some of my known tools are:** <br>
 
