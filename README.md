@@ -25,6 +25,11 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 
 I have design many small projects which can be found on my github profile [repositories](https://github.com/Super7000?tab=repositories).
 
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Super7000&show_icons=true&locale=en&layout=compact" alt="dhananjay-ghosh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Super7000&show_icons=true&locale=en" alt="dhananjay-ghosh" /></p>
+-->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Super7000&" alt="Super7000" /></p>
 <!--
 <img src="https://isocpp.org/assets/images/cpp_logo.png" width="50">
