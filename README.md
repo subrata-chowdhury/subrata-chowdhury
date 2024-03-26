@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT university. I am experienced in web development.
 
+ <img src="https://komarev.com/ghpvc/?username=Super7000&label=Profile%20views&color=0e75b6&style=flat" alt="Super7000" /> 
+
 ### **Some of my known programming languages are:** <br>
 
 ![HTML](https://github.com/Super7000/Super7000/assets/86580414/527c0c3f-6724-43d0-a771-2aa050aab2d7)
