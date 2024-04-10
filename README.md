@@ -23,7 +23,7 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 ![Intellij-idea](https://github.com/Super7000/Super7000/assets/86580414/d30638b9-bdf2-48ec-8d4a-96dd54759a8f)
 
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning MySQL
 
 I have design many small projects which can be found on my github profile [repositories](https://github.com/Super7000?tab=repositories).
 
