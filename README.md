@@ -29,15 +29,20 @@ I am Subrata Chowdhury. I am a computer science engineering student of MAKAUT un
 ![SASS](https://github.com/Super7000/Super7000/assets/86580414/b2fbe4a7-c6a7-40f1-95e0-c4997618488c)
 ![bootstrap-5](https://github.com/user-attachments/assets/ac2152e8-c6ef-40ff-8289-d41118d7ffc8)
 &nbsp;![react-2](https://github.com/Super7000/Super7000/assets/86580414/1224be3f-ea22-43ab-9a70-fcfc1ab87d99)
+![nextjs](https://github.com/user-attachments/assets/d70fc187-2298-4215-acb6-abf48e387c60)
+![tailwind](https://github.com/user-attachments/assets/6c51e9ec-8eca-484f-9e45-220a6ac65a02)
+
 
 ### **Some of my known tools are:** <br>
 
 ![Intellij-idea](https://github.com/Super7000/Super7000/assets/86580414/d30638b9-bdf2-48ec-8d4a-96dd54759a8f)
 
 
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning AWS
 
-I have design many small projects which can be found on my github profile [repositories](https://github.com/Super7000?tab=repositories).
+I have created many projects which can be found on my github profile [repositories](https://github.com/Super7000?tab=repositories).
+
+[Visit My Portfolio](https://subratachowdhuryportfolio.vercel.app/) for more details.
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Super7000&show_icons=true&locale=en&layout=compact" alt="dhananjay-ghosh" /></p>
