@@ -44,12 +44,13 @@ I have created many projects which can be found on my github profile [repositori
 
 [Visit My Portfolio](https://subratachowdhuryportfolio.vercel.app/) for more details.
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Super7000&show_icons=true&locale=en&layout=compact" alt="dhananjay-ghosh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Super7000&show_icons=true&locale=en" alt="dhananjay-ghosh" /></p>
--->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Super7000&" alt="Super7000" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrata-chowdhury&" alt="subrata-chowdhury" /></p>
+
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrata-chowdhury&show_icons=true&locale=en&layout=compact" alt="subrata-chowdhury" /></p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrata-chowdhury&show_icons=true&locale=en" alt="subrata-chowdhury" /></p>-->
+
 <!--
 <img src="https://isocpp.org/assets/images/cpp_logo.png" width="50">
 
